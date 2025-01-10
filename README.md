@@ -11,5 +11,5 @@ This repository contains the backend implementation for a Blogging System. It is
 
 ## For .env file
 
--PORT = 4000;
--DATABASE_URL = mongodb+srv://(project name on atlas):(password of your cluster)@cluster0.wlsiw.mongodb.net/(name of your database)
+- PORT = 4000.
+- DATABASE_URL = mongodb+srv://(project name on atlas):(password of your cluster)@cluster0.wlsiw.mongodb.net/(name of your database).
