@@ -32,8 +32,8 @@ To run this project, ensure you have the following installed:
    
 4. Create a .env file in the root directory and add the following variables:
    ```bash
--     PORT = 4000.
--     DATABASE_URL = mongodb+srv://(project name on atlas):(password of your cluster)@cluster0.wlsiw.mongodb.net/(name of your database).
+   PORT = 4000.
+   DATABASE_URL = mongodb+srv://(project name on atlas):(password of your cluster)@cluster0.wlsiw.mongodb.net/(name of your database).
 
 5. Start the MongoDB server (if not already running):
    ```bash
